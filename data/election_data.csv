@@ -1,0 +1,145 @@
+Region,Constituency,Registered_Voters,Votes_Cast,Candidate,Party,Votes_Received,Rank
+Karnataka,KAR-01,126905,77278,Candidate A-01,Party A,33498,1
+Karnataka,KAR-01,126905,77278,Candidate C-01,Party C,22206,2
+Karnataka,KAR-01,126905,77278,Candidate B-01,Party B,21574,3
+Karnataka,KAR-02,94144,72630,Candidate A-02,Party A,30635,1
+Karnataka,KAR-02,94144,72630,Candidate B-02,Party B,27799,2
+Karnataka,KAR-02,94144,72630,Candidate C-02,Party C,14196,3
+Karnataka,KAR-03,90697,66528,Candidate C-03,Party C,29226,1
+Karnataka,KAR-03,90697,66528,Candidate A-03,Party A,20338,2
+Karnataka,KAR-03,90697,66528,Candidate B-03,Party B,16964,3
+Karnataka,KAR-04,100247,71314,Candidate C-04,Party C,30196,1
+Karnataka,KAR-04,100247,71314,Candidate A-04,Party A,21734,2
+Karnataka,KAR-04,100247,71314,Candidate B-04,Party B,19384,3
+Karnataka,KAR-05,127590,97267,Candidate A-05,Party A,36525,1
+Karnataka,KAR-05,127590,97267,Candidate C-05,Party C,30408,2
+Karnataka,KAR-05,127590,97267,Candidate B-05,Party B,30334,3
+Karnataka,KAR-06,103231,81599,Candidate B-06,Party B,30104,1
+Karnataka,KAR-06,103231,81599,Candidate C-06,Party C,26920,2
+Karnataka,KAR-06,103231,81599,Candidate A-06,Party A,24575,3
+Kerala,KER-01,130753,90203,Candidate C-01,Party C,33875,1
+Kerala,KER-01,130753,90203,Candidate A-01,Party A,31572,2
+Kerala,KER-01,130753,90203,Candidate B-01,Party B,24756,3
+Kerala,KER-02,135036,90138,Candidate C-02,Party C,38565,1
+Kerala,KER-02,135036,90138,Candidate A-02,Party A,28546,2
+Kerala,KER-02,135036,90138,Candidate B-02,Party B,23027,3
+Kerala,KER-03,140541,94082,Candidate C-03,Party C,38145,1
+Kerala,KER-03,140541,94082,Candidate A-03,Party A,32704,2
+Kerala,KER-03,140541,94082,Candidate B-03,Party B,23233,3
+Kerala,KER-04,115108,82810,Candidate A-04,Party A,39348,1
+Kerala,KER-04,115108,82810,Candidate B-04,Party B,24889,2
+Kerala,KER-04,115108,82810,Candidate C-04,Party C,18573,3
+Kerala,KER-05,121178,79520,Candidate A-05,Party A,32854,1
+Kerala,KER-05,121178,79520,Candidate B-05,Party B,30350,2
+Kerala,KER-05,121178,79520,Candidate C-05,Party C,16316,3
+Kerala,KER-06,108700,79363,Candidate A-06,Party A,33873,1
+Kerala,KER-06,108700,79363,Candidate C-06,Party C,25861,2
+Kerala,KER-06,108700,79363,Candidate B-06,Party B,19629,3
+Tamil Nadu,TAM-01,99935,78049,Candidate A-01,Party A,37255,1
+Tamil Nadu,TAM-01,99935,78049,Candidate B-01,Party B,29412,2
+Tamil Nadu,TAM-01,99935,78049,Candidate C-01,Party C,11382,3
+Tamil Nadu,TAM-02,141785,85958,Candidate A-02,Party A,30088,1
+Tamil Nadu,TAM-02,141785,85958,Candidate B-02,Party B,29372,2
+Tamil Nadu,TAM-02,141785,85958,Candidate C-02,Party C,26498,3
+Tamil Nadu,TAM-03,108909,67772,Candidate A-03,Party A,24665,1
+Tamil Nadu,TAM-03,108909,67772,Candidate B-03,Party B,23532,2
+Tamil Nadu,TAM-03,108909,67772,Candidate C-03,Party C,19575,3
+Tamil Nadu,TAM-04,130994,107877,Candidate A-04,Party A,44946,1
+Tamil Nadu,TAM-04,130994,107877,Candidate B-04,Party B,36404,2
+Tamil Nadu,TAM-04,130994,107877,Candidate C-04,Party C,26527,3
+Tamil Nadu,TAM-05,96215,69166,Candidate A-05,Party A,23797,1
+Tamil Nadu,TAM-05,96215,69166,Candidate C-05,Party C,23654,2
+Tamil Nadu,TAM-05,96215,69166,Candidate B-05,Party B,21715,3
+Tamil Nadu,TAM-06,102691,85980,Candidate A-06,Party A,35698,1
+Tamil Nadu,TAM-06,102691,85980,Candidate B-06,Party B,28297,2
+Tamil Nadu,TAM-06,102691,85980,Candidate C-06,Party C,21985,3
+Telangana,TEL-01,129866,86271,Candidate A-01,Party A,37812,1
+Telangana,TEL-01,129866,86271,Candidate C-01,Party C,26982,2
+Telangana,TEL-01,129866,86271,Candidate B-01,Party B,21477,3
+Telangana,TEL-02,138857,81695,Candidate C-02,Party C,29442,1
+Telangana,TEL-02,138857,81695,Candidate A-02,Party A,29147,2
+Telangana,TEL-02,138857,81695,Candidate B-02,Party B,23106,3
+Telangana,TEL-03,98826,80781,Candidate A-03,Party A,32481,1
+Telangana,TEL-03,98826,80781,Candidate B-03,Party B,28666,2
+Telangana,TEL-03,98826,80781,Candidate C-03,Party C,19634,3
+Telangana,TEL-04,98934,74241,Candidate B-04,Party B,28681,1
+Telangana,TEL-04,98934,74241,Candidate A-04,Party A,27559,2
+Telangana,TEL-04,98934,74241,Candidate C-04,Party C,18001,3
+Telangana,TEL-05,115071,71015,Candidate B-05,Party B,25508,1
+Telangana,TEL-05,115071,71015,Candidate A-05,Party A,23089,2
+Telangana,TEL-05,115071,71015,Candidate C-05,Party C,22418,3
+Telangana,TEL-06,120322,78006,Candidate A-06,Party A,31610,1
+Telangana,TEL-06,120322,78006,Candidate B-06,Party B,29927,2
+Telangana,TEL-06,120322,78006,Candidate C-06,Party C,16469,3
+Maharashtra,MAH-01,111175,74945,Candidate A-01,Party A,35937,1
+Maharashtra,MAH-01,111175,74945,Candidate B-01,Party B,19645,2
+Maharashtra,MAH-01,111175,74945,Candidate C-01,Party C,19363,3
+Maharashtra,MAH-02,117343,70832,Candidate C-02,Party C,30740,1
+Maharashtra,MAH-02,117343,70832,Candidate A-02,Party A,21850,2
+Maharashtra,MAH-02,117343,70832,Candidate B-02,Party B,18242,3
+Maharashtra,MAH-03,126120,78395,Candidate A-03,Party A,33120,1
+Maharashtra,MAH-03,126120,78395,Candidate B-03,Party B,26295,2
+Maharashtra,MAH-03,126120,78395,Candidate C-03,Party C,18980,3
+Maharashtra,MAH-04,110216,74861,Candidate A-04,Party A,35881,1
+Maharashtra,MAH-04,110216,74861,Candidate B-04,Party B,24304,2
+Maharashtra,MAH-04,110216,74861,Candidate C-04,Party C,14676,3
+Maharashtra,MAH-05,121256,97465,Candidate B-05,Party B,34630,1
+Maharashtra,MAH-05,121256,97465,Candidate C-05,Party C,33395,2
+Maharashtra,MAH-05,121256,97465,Candidate A-05,Party A,29440,3
+Maharashtra,MAH-06,129676,105043,Candidate A-06,Party A,45710,1
+Maharashtra,MAH-06,129676,105043,Candidate B-06,Party B,38128,2
+Maharashtra,MAH-06,129676,105043,Candidate C-06,Party C,21205,3
+Gujarat,GUJ-01,107293,65341,Candidate A-01,Party A,24715,1
+Gujarat,GUJ-01,107293,65341,Candidate B-01,Party B,20425,2
+Gujarat,GUJ-01,107293,65341,Candidate C-01,Party C,20201,3
+Gujarat,GUJ-02,132323,106880,Candidate A-02,Party A,37131,1
+Gujarat,GUJ-02,132323,106880,Candidate C-02,Party C,35538,2
+Gujarat,GUJ-02,132323,106880,Candidate B-02,Party B,34211,3
+Gujarat,GUJ-03,96708,68855,Candidate C-03,Party C,23466,1
+Gujarat,GUJ-03,96708,68855,Candidate B-03,Party B,23414,2
+Gujarat,GUJ-03,96708,68855,Candidate A-03,Party A,21975,3
+Gujarat,GUJ-04,140159,104576,Candidate A-04,Party A,42835,1
+Gujarat,GUJ-04,140159,104576,Candidate C-04,Party C,34086,2
+Gujarat,GUJ-04,140159,104576,Candidate B-04,Party B,27655,3
+Gujarat,GUJ-05,134971,83952,Candidate A-05,Party A,39594,1
+Gujarat,GUJ-05,134971,83952,Candidate B-05,Party B,32538,2
+Gujarat,GUJ-05,134971,83952,Candidate C-05,Party C,11820,3
+Gujarat,GUJ-06,85037,62563,Candidate A-06,Party A,24271,1
+Gujarat,GUJ-06,85037,62563,Candidate C-06,Party C,22158,2
+Gujarat,GUJ-06,85037,62563,Candidate B-06,Party B,16134,3
+Rajasthan,RAJ-01,108788,87951,Candidate A-01,Party A,39551,1
+Rajasthan,RAJ-01,108788,87951,Candidate B-01,Party B,25435,2
+Rajasthan,RAJ-01,108788,87951,Candidate C-01,Party C,22965,3
+Rajasthan,RAJ-02,88796,57062,Candidate A-02,Party A,22946,1
+Rajasthan,RAJ-02,88796,57062,Candidate C-02,Party C,19703,2
+Rajasthan,RAJ-02,88796,57062,Candidate B-02,Party B,14413,3
+Rajasthan,RAJ-03,132966,93921,Candidate B-03,Party B,33970,1
+Rajasthan,RAJ-03,132966,93921,Candidate C-03,Party C,30605,2
+Rajasthan,RAJ-03,132966,93921,Candidate A-03,Party A,29346,3
+Rajasthan,RAJ-04,135189,82829,Candidate A-04,Party A,34685,1
+Rajasthan,RAJ-04,135189,82829,Candidate B-04,Party B,32427,2
+Rajasthan,RAJ-04,135189,82829,Candidate C-04,Party C,15717,3
+Rajasthan,RAJ-05,95821,62179,Candidate A-05,Party A,28418,1
+Rajasthan,RAJ-05,95821,62179,Candidate B-05,Party B,19132,2
+Rajasthan,RAJ-05,95821,62179,Candidate C-05,Party C,14629,3
+Rajasthan,RAJ-06,98880,81231,Candidate A-06,Party A,35412,1
+Rajasthan,RAJ-06,98880,81231,Candidate B-06,Party B,28461,2
+Rajasthan,RAJ-06,98880,81231,Candidate C-06,Party C,17358,3
+Andhra Pradesh,AND-01,131723,87074,Candidate A-01,Party A,41719,1
+Andhra Pradesh,AND-01,131723,87074,Candidate B-01,Party B,29951,2
+Andhra Pradesh,AND-01,131723,87074,Candidate C-01,Party C,15404,3
+Andhra Pradesh,AND-02,113711,92549,Candidate A-02,Party A,35285,1
+Andhra Pradesh,AND-02,113711,92549,Candidate C-02,Party C,31382,2
+Andhra Pradesh,AND-02,113711,92549,Candidate B-02,Party B,25882,3
+Andhra Pradesh,AND-03,89196,59574,Candidate A-03,Party A,24180,1
+Andhra Pradesh,AND-03,89196,59574,Candidate C-03,Party C,18903,2
+Andhra Pradesh,AND-03,89196,59574,Candidate B-03,Party B,16491,3
+Andhra Pradesh,AND-04,99432,57856,Candidate A-04,Party A,24728,1
+Andhra Pradesh,AND-04,99432,57856,Candidate C-04,Party C,18698,2
+Andhra Pradesh,AND-04,99432,57856,Candidate B-04,Party B,14430,3
+Andhra Pradesh,AND-05,89417,72911,Candidate A-05,Party A,33155,1
+Andhra Pradesh,AND-05,89417,72911,Candidate C-05,Party C,21431,2
+Andhra Pradesh,AND-05,89417,72911,Candidate B-05,Party B,18325,3
+Andhra Pradesh,AND-06,100597,65629,Candidate A-06,Party A,25423,1
+Andhra Pradesh,AND-06,100597,65629,Candidate B-06,Party B,21413,2
+Andhra Pradesh,AND-06,100597,65629,Candidate C-06,Party C,18793,3
